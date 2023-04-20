@@ -3,3 +3,7 @@
 table, tr, td{
 	border:2px solid dimgray;
 }
+video{
+	width:300px;
+	height:200px;
+}
