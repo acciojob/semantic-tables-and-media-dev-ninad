@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+table, tr, td{
+	border:2px solid dimgray;
+}
